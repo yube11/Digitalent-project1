@@ -1,4 +1,4 @@
-# digitalent-project-1
+# Digitalent-Project1
 
 Team A16 : <br>
 Yudha Berliandi <br>
